@@ -43,7 +43,7 @@ if (!isset($_SESSION['email'])) {
                         <a class="nav-link active" href="matakuliah.php">Mata Kuliah</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="dosen.php">ada gantii</a>
+                        <a class="nav-link active" href="dosen.php">Dosen</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active text-danger" href="logout.php" onclick="return confirm('apakah anda yakin?')" >Log Out</a>
